@@ -105,8 +105,6 @@ void insert_link(node **root,int key)           //structure for inserting nodes 
     *root=current;
     else
     {   prev=*root;
-        //current->next=prev;
-        //*root=current;
         while(prev->next!=NULL)
             prev=prev->next;
         prev->next=current;
