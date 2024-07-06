@@ -38,8 +38,8 @@ The aim of this project is to find a recommendation algorithm for social media n
 
 1. *Clone the repository*:
    sh
-   git clone https://github.com/yourusername/social_network_analysis_recommendation_algorithm.git
-   cd social_network_analysis_recommendation_algorithm
+   git clone https://github.com/Prathisthapandey12/CS201_Project.git
+   cd CS201_Project
 
 2. **Build and Run**:
    sh
